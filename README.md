@@ -19,6 +19,7 @@ Here are some ideas to get you started:
  Languages:
  - Python
  - HTML/CSS
+ - JavaScript (work in progress)
  - LaTeX (work in progress)
 
 I'd like to apply my knowledge to projects involving data science and machine learning.
