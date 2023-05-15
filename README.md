@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm interested in coding because it allows me to create cool projects with a variety of real-world applications.
+ I'm a current high school freshman from Rhode Island. I'm interested in coding because it allows me to create cool projects with a variety of real-world applications.
  
  Languages:
  - Python
- - HTML/CSS (work in progress)
+ - HTML/CSS
  - LaTeX (work in progress)
+
+I'd like to apply my knowledge to projects involving data science and machine learning.
