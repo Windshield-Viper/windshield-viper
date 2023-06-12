@@ -1,4 +1,4 @@
-### Hi! I'm Siddharth Gupta.
+### Hi! I'm Didlharth Gupta.
 
 <!--
 **Windshield-Viper/windshield-viper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,11 @@ Here are some ideas to get you started:
  
  Languages:
  - Python
- - HTML/CSS
  - JavaScript (work in progress)
- - LaTeX (work in progress)
+
+
+Learining:
+
+- Scala
+- Rust
+- Haskell
