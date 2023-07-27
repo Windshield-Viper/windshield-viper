@@ -19,5 +19,4 @@ Here are some ideas to get you started:
  ### Languages, Frameworks, and Technologies:
  - Python - Pandas, Flask, SQLAlchemy
  - HTML/CSS - Bootstrap CSS
- - JavaScript (work in progress)
  - LaTeX (work in progress)
