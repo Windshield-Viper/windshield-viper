@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  I'm a current high school freshman from Rhode Island. I'm interested in coding because it allows me to create cool projects with a variety of real-world applications.
  
- ### Languages, Frameworks, and Technologies:
- - Python - Pandas, Flask, SQLAlchemy
+ ### Some of the Languages, Frameworks, and Technologies I've Worked With:
+ - Python - Pandas, Flask, SQLAlchemy, Jinja
  - HTML/CSS - Bootstrap CSS
  - LaTeX (work in progress)
