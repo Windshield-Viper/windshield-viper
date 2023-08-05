@@ -20,3 +20,5 @@ Here are some ideas to get you started:
  - Python - Pandas, Flask, SQLAlchemy, Jinja
  - HTML/CSS - Bootstrap CSS
  - LaTeX (work in progress)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=calm)
