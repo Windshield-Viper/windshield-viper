@@ -21,6 +21,6 @@ Here are some ideas to get you started:
  - HTML/CSS - Bootstrap CSS
  - Java (work in progress!)
  - LaTeX
- - Vercel
+ - Vercel (Basic)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=calm)
