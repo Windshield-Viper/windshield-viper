@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  I'm a current high school student from Rhode Island. I'm interested in coding because it allows me to create cool projects with a variety of real-world applications.
  
  ### Languages/Frameworks/Technologies I've worked with:
- - Python - Pandas, Flask, SQLAlchemy, Jinja
+ - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI
  - HTML/CSS - Bootstrap CSS
  - Java (work in progress!)
  - LaTeX
