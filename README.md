@@ -20,6 +20,6 @@ Here are some ideas to get you started:
  - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI
  - HTML/CSS - Bootstrap CSS
  - Java (work in progress!)
- - LaTeX
+ - Mathjax/LaTeX
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=calm)
