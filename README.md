@@ -23,3 +23,5 @@ Here are some ideas to get you started:
  - Mathjax/LaTeX
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=calm)
+
+(My profile picture was created using DALL-E 2.)
