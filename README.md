@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a current high school student from Rhode Island. I'm interested in coding because it allows me to create cool projects with a variety of real-world applications.
+ I'm a current high school student from Rhode Island.
  
  ### Languages/Frameworks/Technologies I've worked with:
  - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=calm)
 
-(My profile picture was created using DALL-E 2.)
+My profile picture was created using DALL-E 2.
