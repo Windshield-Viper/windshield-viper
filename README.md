@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a current high school student from Rhode Island with interests in machine learning, data science, and web development.
+ I'm a current high school student from the US with interests in machine learning, data science, and web development.
  
  ### Languages/Frameworks/Technologies I've worked with:
  - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI
