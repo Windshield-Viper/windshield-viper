@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  I'm a current high school student from the US with interests in machine learning, data science, and web development.
  
  ### Languages/Frameworks/Technologies I've worked with:
- - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI
+ - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI, Pymongo, discord.py
  - HTML/CSS - Bootstrap CSS
  - Java (work in progress!)
  - Mathjax/LaTeX
