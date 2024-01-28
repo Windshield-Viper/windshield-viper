@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=dracula&rank_icon=github)
 
  ### Languages/Frameworks/Technologies I've worked with:
- - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI, PyTorch, sklearn, Pymongo, discord.py
+ - Python - Pandas, Flask, SQLAlchemy, Jinja, FastAI, PyTorch, scikit-learn, Pymongo, discord.py
  - HTML/CSS - Bootstrap CSS
  - Java (work in progress!)
  - Mathjax/LaTeX
