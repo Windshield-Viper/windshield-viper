@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a current high school student from the US with interests in machine learning, data science, and web development.
+ I'm a current high school student with interests in machine learning, data science, and web development.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=dracula&rank_icon=github)
 
