@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a high school student interested in machine learning, data science, and web development. Please reach out if you'd like to chat!
+ I'm a high school student interested in machine learning, data science, and web development.
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=nord&rank_icon=github)
-
- ### Stuff I've worked with:
- - Python: Pandas, Flask, SQLAlchemy, Jinja, FastAI, PyTorch, scikit-learn, Pymongo, discord.py
- - Java
- - Web Frameworks: Astro, Bootstrap, Hexo, Jekyll
- - TeX
-
-_My profile picture was created using DALL-E 2._
