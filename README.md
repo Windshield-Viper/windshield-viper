@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm a high school student interested in machine learning, data science, and web development.
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windshield-viper&show_icons=true&theme=nord&rank_icon=github)
+ I'm a student interested in applications of machine learning, data science, and web development.
