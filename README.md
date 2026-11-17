@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Interested in ML, climatetech, data science, HCI, and more!
+
+[sid-gupta.com](https://sid-gupta.com/)
